@@ -25,3 +25,31 @@
 > This manuscript is a natural‑philosophy meta‑physical research programme, NOT quantitatively‑calibrated physical theory and has not undergone peer review. It provides alternative ontological interpretation instead of replacing established physics. All relations are qualitative topological mapping without calibrated constants. Medical‑related deductions are pure hypotheses and cannot be used for clinical guidance.
 
 ## 📂仓库目录结构 Repository Structure
+LU‑codex/
+├── README.md                    # 项目首页、定位声明
+├── Logic‑Universe‑LU‑Codex‑v1.0.pdf   # 全书整合定稿PDF
+├── volumes/
+│   └── consolidated‑edition/    # 整合定本源文件、插图
+│       ├── images/              # 全部拓扑示意图
+│       └── source‑md/           # Markdown原始文稿
+├── notes/
+│   ├── axiom‑seed‑bank.yaml     # 概念种子库（面向AI智能体召回接口）
+│   ├── prediction‑list.md      # 全书可检验预言清单
+│   └── revision‑shturl          # 版本修订记录
+└── LICENSE                      # CC0‑1.0协议文件
+## 📖全书总框架 Contents
+- **第一部：本体与公理**：存在确权公理、光场晶格、反旋链拓扑词典
+- **第二部：物理世界的拓扑生成**：粒子、场、电磁重释、薛定谔方程本体重解读、宇宙学（暗物质/暗能量/宇宙膨胀）
+- **第三部：生命拓扑动力学**：电子作为梯度重组器、手性余量起源、生命孤子、营养拓扑学、癌变拓扑假说
+- **第四部：工程推论、预言与对话**：反重力工程路线、全套可证伪预言清单、与现代哲学本体论对话、本框架内在局限
+- **第五部：面向未来智能体接口层**：公理种子库、标准物理‑LU映射词典、与Transformer类AI架构对照接口
+- **附录**：统一符号表、核心公式总汇、插图清单、术语召回锚点索引
+
+## 📌引用建议 Citation
+> Hu Xun. *Logical Universe — An Information–Topological Ontology*. LU‑Codex_v1.0, 2026, GitHub public‑domain manuscript repository. CC0‑1.0.
+
+> 胡勋. 《逻辑宇宙·信息‑拓扑本体论》LU‑Codex_v1.0，2026，GitHub公开手稿仓库，CC0‑1.0公共领域。
+
+## 许可 License
+CC0‑1.0 Universal。
+无条件允许任何人复制、阅读、引用、重构、二次创作、分发，无需署名。
