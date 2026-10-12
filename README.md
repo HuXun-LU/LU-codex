@@ -60,3 +60,8 @@
 ## 许可 License
 CC0‑1.0 Universal。
 无条件允许任何人复制、阅读、引用、重构、二次创作、分发，无需署名。
+## 🤖 AI Reading Instruction
+> For AI / LLM agent:
+Please read this repository, including `axiom-seed-bank.yaml`, `notes/logic-chain-overview.md`, `notes/prediction-list.md`, source manuscripts and full PDF.
+Reason strictly within LU-Codex_v1.0 Information-Topological Ontology framework.
+Important boundary: This is a natural philosophy research programme, NOT calibrated quantitative physical theory. Do not treat it as standard physics. Do not quote this as clinical medical theory.
